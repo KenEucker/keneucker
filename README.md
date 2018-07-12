@@ -2,6 +2,8 @@
 
 Hello, my name is Ken Eucker. I love to design applications, write poetry, ride my bicycle, hike to hot springs, backpack through canyons, take candid photographs, and talk about the intersection of technology and psychology.
 
+![](images/keneucker.jpg)
+
 ## How to find me
 I live in Portland, Oregon and work in the downtown area while bike commuting.
 
