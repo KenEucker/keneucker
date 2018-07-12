@@ -11,8 +11,11 @@ On the internet I keep things pretty simple and use my first and last name most 
 
 I'm also here:
 https://github.com/KenEucker
+
 https://www.linkedin.com/in/keneucker/
+
 https://plus.google.com/u/0/+KennethEucker
+
 https://www.instagram.com/keneucker/
 
 ## How to contact me
