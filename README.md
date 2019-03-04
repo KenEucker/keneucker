@@ -26,7 +26,9 @@ https://www.instagram.com/keneucker/
 ## How to contact me
 <p align="center">
   Send me an email: hello@keneucker.com
+</p><p align="center">
   Call me or message me elsewhere.
+</p><p align="center">
   Wave to me.
 </p>
 
