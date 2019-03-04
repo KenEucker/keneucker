@@ -20,8 +20,6 @@ https://github.com/KenEucker
 </p><p align="center">
 https://www.linkedin.com/in/keneucker/
 </p><p align="center">
-https://plus.google.com/u/0/+KennethEucker
-</p><p align="center">
 https://www.instagram.com/keneucker/
 </p>
 
