@@ -16,7 +16,7 @@ https://github.com/KenEucker
 </p><p align="center">
 https://www.linkedin.com/in/keneucker/
 </p><p align="center">
-https://www.instagram.com/keneucker/
+https://dev.to/KenEucker
 </p>
 
 ## How to contact me
