@@ -1,5 +1,9 @@
 # keneucker
 
+
+  ![octocat](https://keneucker.com/public/img/KenEucker-Octocat-medium.png)
+  
+
 <p align="center">
   Hello, my name is Ken Eucker. I love to design applications, write poetry, bicycle to parks, kayak on rivers, hike to hot springs, backpack through canyons, take candid photographs, and talk about the intersection of technology and psychology. This document outlines who I am as a developer who collaborates on open source projects, where you can find me on the web, and a couple of things about me that you may find commonality with.
 </p>
