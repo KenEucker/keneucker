@@ -95,7 +95,7 @@
   </tr>
 
   <tr>
-    <th align="center" colspan="3">How I spend my time</th>
+    <th align="center" colspan="3">How I can help</th>
   </tr>
   <tr>
     <td align="center" colspan="3">
@@ -126,7 +126,7 @@
   </tr>
 
   <tr>
-    <th align="center" colspan="3">How I can help</th>
+    <th align="center" colspan="3">How I spend my time</th>
   </tr>
   <tr>
     <td align="center" colspan="3">
