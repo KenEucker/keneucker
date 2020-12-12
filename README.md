@@ -34,6 +34,17 @@
   </tr>
 
   <tr>
+    <th align="center" colspan="3">How to contact me</th>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      Send me an email: hello@keneucker.com<br />
+      Call me or message me elsewhere.<br />
+      Wave to me.<br /><br />
+    </td>
+  </tr>
+
+  <tr>
     <th align="center" colspan="3">How to find me</th>
   </tr>
   <tr>
@@ -52,17 +63,6 @@
         I've got https://keneucker.com as a general landing page, but if you're looking for me
         elsewhere just try my name.
       </details>
-    </td>
-  </tr>
-
-  <tr>
-    <th align="center" colspan="3">How to contact me</th>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      Send me an email: hello@keneucker.com<br />
-      Call me or message me elsewhere.<br />
-      Wave to me.<br />
     </td>
   </tr>
 
