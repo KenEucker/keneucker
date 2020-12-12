@@ -1,20 +1,17 @@
 {
   "name": "keneucker",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Information about Ken Eucker",
   "main": "index.js",
   "scripts": {
-    "postinstall": "cat info.json"
+    "postinstall": "cat index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KenEucker/keneucker.git"
   },
   "author": "Ken Eucker",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/KenEucker/keneucker/issues"
-  },
+  "license": "UNLICENSED",
   "homepage": "https://github.com/KenEucker/keneucker#readme",
   "keywords": [
     "person",
@@ -22,8 +19,5 @@
     "email address",
     "profile",
     "keneucker"
-  ],
-  "devDependencies": {
-    "fs": "0.0.1-security"
-  }
+  ]
 }
