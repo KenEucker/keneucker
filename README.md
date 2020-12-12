@@ -79,7 +79,9 @@ In addition to my software skills, I also have a fair amount of experience helpi
   
 <details>
 <summary> read more </summary>
+  
   My schedule changes a lot with the seasons, but there are several constants to how I spend my time. One of those constats is riding my bicycle. I bike commute and travel with a backback and two waterbottles in the summertime, and I bike commute in the winter with raingear and two panniers. I like to ride for fun, for errands, with groups, and totally alone. I also really love to go kayaking on rivers and lakes all over the Pacific Northwest, and have made it a constant to meditate on the river at least once a month. It is my goal to have paddled in every body of water in Oregon.
+  
 
   I also like to be out in the woods on trails, campsites, near mountains, and on rivers. I like to sit and stare at viewpoints high and low while having philisophical conversations about everything in life from feelings to adventures to technology and the study of all things. I like to work on crafts, tinker with electronics, and build things out of wood or metal or glass or ceramic. I like to take photographs and have been learning how to fly + shoot video with a drone.
 
