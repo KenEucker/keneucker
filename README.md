@@ -1,9 +1,26 @@
 # keneucker
-![octocat](https://keneucker.com/public/img/KenEucker-Octocat-medium.png)
 
-<p>
-  Hello, my name is Ken Eucker. I love to design applications, write poetry, bicycle to parks, kayak on rivers, hike to hot springs, backpack through canyons, take candid photographs, and talk about the intersection of technology and psychology. This document outlines who I am as a developer who collaborates on open source projects, where you can find me on the web, and a couple of things about me that you may find commonality with.
-</p>
+<table>
+  <tr>
+    <td colspan=4>
+      <img width=234 height=234 src="https://keneucker.com/public/img/KenEucker-Octocat-large.png">
+    </td>
+    <td colspan=1 align="center">
+      Hello, my name is Ken Eucker. I love to design applications, write poetry, bicycle to parks, kayak on rivers, hike to hot springs, backpack through canyons, take candid photographs, and talk about the intersection of technology and psychology. This document outlines who I am as a developer who collaborates on open source projects, where you can find me on the web, and a couple of things about me that you may find commonality with.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <pre>{ hello,</pre>
+    </td>
+    <td align="center">
+      <pre>world }</pre>
+    </td>
+    <td align="center" colspan=3>
+      <pre>= require('keneucker')</pre>
+    </td>
+  </tr>
+ </table>
 
 ## How to find me
 <p align="center">
