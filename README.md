@@ -38,10 +38,7 @@
   </tr>
   <tr>
     <td align="center" colspan="3">
-        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keneucker" alt="keneucker" /></a><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keneucker&show_icons=true&locale=en&layout=compact" alt="keneucker" /><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=keneucker&show_icons=true&locale=en" alt="keneucker" /><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=keneucker&" alt="keneucker" /><br>
+	<a href="https://metrics.lecoq.io/keneucker"><img src="https://metrics.lecoq.io/keneucker?template=classic&config.timezone=America%2FLos_Angeles" alt="keneucker-metrics" /></a><br>
     </td>
   </tr>
 
