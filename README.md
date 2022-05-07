@@ -42,6 +42,16 @@
     </td>
   </tr>
 
+
+  <tr>
+    <th align="center" colspan="3">See my resume</th>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+	    <a href="https://resume.github.io/?keneucker">GitHub Résumé</a>
+	    <a href="https://www.keneucker.com/public/doc/Ken_Eucker_Resume_2022.pdf">LinkedIn Résumé</a>
+    </td>
+  </tr>
   <tr>
     <th align="center" colspan="3">Languages and Tools that I use</th>
   </tr>
