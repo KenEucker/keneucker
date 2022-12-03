@@ -21,7 +21,7 @@
       <img
         width="234"
         height="234"
-        src="https://keneucker.com/public/img/KenEucker-Octocat-large.png"
+        src="https://keneucker.com/img/KenEucker-Octocat-large.png"
       />
     </td>
     <td colspan="1" align="center">
