@@ -5,14 +5,11 @@
     <th align="center" colspan="3"><h1 align="center">Hi 👋, my name is Ken</h1></th>
   </tr>
   <tr>
-    <td align="center">
-      <pre>{ hello,</pre>
+    <td align="center" colspan="2">
+      <pre>import { hello, world }</pre>
     </td>
-    <td align="center">
-      <pre>world }</pre>
-    </td>
-    <td align="center" colspan="3">
-      <pre>= require('keneucker')</pre>
+    <td align="center" colspan="1">
+      <pre> from 'keneucker'</pre>
     </td>
   </tr>
 
