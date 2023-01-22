@@ -35,7 +35,11 @@
   </tr>
   <tr>
     <td align="center" colspan="3">
-	<a href="https://metrics.lecoq.io/keneucker"><img src="https://metrics.lecoq.io/keneucker?template=classic&config.timezone=America%2FLos_Angeles" alt="keneucker-metrics" /></a><br>
+<div style="display:flex;">
+  <a href="https://github.com/LUK3D">
+  <img style="margin:2px;" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=keneucker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=keneucker&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
     </td>
   </tr>
   <tr>
