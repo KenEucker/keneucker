@@ -239,5 +239,4 @@
 </table>
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/keneucker"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="keneucker" /></a><br>
-<a href="https://ko-fi.com/keneucker" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" height="41" width="174"></a></p>
+<p><a href="https://github.com/sponsors/KenEucker">Sponsor me</a></p>
