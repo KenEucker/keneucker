@@ -239,4 +239,4 @@
 </table>
 
 <h3 align="center">Support:</h3>
-<p><a href="https://github.com/sponsors/KenEucker">Sponsor me</a></p>
+<p align="center"><a href="https://github.com/sponsors/KenEucker">Sponsor me</a></p>
