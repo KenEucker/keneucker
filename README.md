@@ -43,6 +43,18 @@
     </td>
   </tr>
   <tr>
+    <th align="center" colspan="3">My Open-Source Projects</th>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+	    These are projects that I dream about being successful one day<br>
+	    <a href="https://github.com/keneucker/biketag">BikeTag - The Photo Mystery Tag Game on Bicycles</a><br>
+	    <a href="https://github.com/keneucker/point-of-vue">PointOfVue - a web 3 social sharing network for the programmable web</a><br>
+	    <a>BikesList -- not yet created</a><br>
+	    <a href="https://github.com/KenEucker/wp-vue3">WpVue3 - A Vue3 frontend for WordPress Posts, Pages, and other documents using the wp-rest api</a><br>
+    </td>
+  </tr>
+  <tr>
     <th align="center" colspan="3">See my resume</th>
   </tr>
   <tr>
